@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:4
+
+Name    : Vineet
+MIS     : 3131
+CGPA    : 10
+Age     : 20 
+
+--------------\n
+END:VCARD
